@@ -12,7 +12,7 @@
         <Button x:Name="markat" Content="Markoiksi" HorizontalAlignment="Left" Margin="448,347,0,0" VerticalAlignment="Top" Height="67" Width="140" Click="markat_Click"/>
         <Button x:Name="eurot" Content="Euroiksi" HorizontalAlignment="Left" Margin="659,347,0,0" VerticalAlignment="Top" Height="67" Width="140" Click="eurot_Click"/>
         <TextBlock x:Name="result" HorizontalAlignment="Left" Margin="555,451,0,0" TextWrapping="Wrap" Text="" FontSize="25px" TextAlignment="Center" VerticalAlignment="Top" Height="30" Width="140"/>
-        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="382,237,0,0" TextWrapping="Wrap" Text="Given number is changed to the other currency. (EUR to MK / MK to EUR)" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="449,224,0,0" TextWrapping="Wrap" Text="Annettu luku muunnetaan. (EUR -> MK / MK -> EUR)" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>
